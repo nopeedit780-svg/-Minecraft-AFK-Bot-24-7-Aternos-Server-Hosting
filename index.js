@@ -20,8 +20,8 @@ const CONFIG_PATH = fs.existsSync(HF_DATA_DIR)
 console.log(`[CONFIG] 📂 Config path: ${CONFIG_PATH}`);
 
 const DEFAULT_CONFIG = {
-  host: 'play.example.com',
-  port: 25565,
+  host: 'BHARATSMP.aternos.me',
+  port: 14978,
   username: 'BotTreoServer',
   version: '1.21.1',
   auth: 'offline',
